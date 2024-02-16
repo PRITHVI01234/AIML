@@ -10,7 +10,7 @@ This folder contains notebooks for different search algorithms.
 - **DFS (Depth-First Search)**
 - **DLS (Depth-Limited Search)**
 - **UCS (Uniform Cost Search)**
-- **Informed_Search**(Contains Both Greedy Best-First and A* Search)
+- **Informed_Search** (Contains Both Greedy Best-First and A* Search)
 
 ## Models
 

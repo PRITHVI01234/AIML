@@ -39,6 +39,7 @@ To run the models in your local environment, please make sure to install the req
 
 ```bash
 pip install -r requirements.txt
+```
 
 Once the dependencies are installed, you can execute the notebooks in each folder to train and run the respective models. Make sure to follow the instructions provided within each notebook for further guidance.
 

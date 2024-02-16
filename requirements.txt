@@ -1,0 +1,5 @@
+statsmodels==0.12.2
+scikit-learn==0.24.2
+numpy==1.21.2
+minisom==2.2.9
+scipy==1.7.3

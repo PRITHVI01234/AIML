@@ -1,4 +1,4 @@
-# AIML_lAB
+# AIML LAB
 
 This repository contains notebooks and models for various search algorithms and machine learning models.
 

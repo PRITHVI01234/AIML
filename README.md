@@ -32,3 +32,15 @@ This folder contains notebooks for unsupervised learning models.
 - **Folder 9**: SOM Using Synthetic Book Dataset.
 - **Folder 10**: Kmeans Clustering Using Mall Customers Dataset.
 - **Folder 11**: Hierarchical Clustering Using Synthetic Dataset.
+
+## Instructions for Running Models
+
+To run the models in your local environment, please make sure to install the required dependencies listed in the `requirements.txt` file. You can install them using the following command:
+
+```bash
+    pip install -r requirements.txt
+    ```
+
+
+Once the dependencies are installed, you can execute the notebooks in each folder to train and run the respective models. Make sure to follow the instructions provided within each notebook for further guidance.
+
